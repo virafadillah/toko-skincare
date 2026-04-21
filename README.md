@@ -1,8 +1,3 @@
-Berikut ini aku buatkan **README lengkap** untuk project CRUD Toko Skincare kamu 💻✨
-Mulai dari install Laravel 12 sampai web berjalan di Laragon — cocok untuk laporan atau dikumpulkan 📄
-
----
-
 # 📘 README
 
 ## 🧴 Project CRUD Toko Skincare (Laravel 12 + Laragon)
